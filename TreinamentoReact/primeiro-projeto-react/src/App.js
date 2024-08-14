@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      Bem vindo ao meu Projeto
+      Bem vindo ao ConsultFlix
     </div>
   );
 }
