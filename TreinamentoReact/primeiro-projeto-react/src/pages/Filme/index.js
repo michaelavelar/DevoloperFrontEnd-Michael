@@ -1,7 +1,9 @@
 function Filme(){
     return(
         <div>
-            BEM VINDO A HOME
+            <h1>
+            Detalhes do Filme
+            </h1>
         </div>
     )
 }

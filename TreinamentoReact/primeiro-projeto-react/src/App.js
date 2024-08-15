@@ -1,8 +1,8 @@
-
+import RoutesApp from "./router";
 function App() {
   return (
     <div classname='App'>
-      Bem vindo ao ConsultFlix
+      <RoutesApp/>
     </div>
   );
 }
