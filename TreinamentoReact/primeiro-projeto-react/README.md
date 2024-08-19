@@ -23,11 +23,11 @@ npm start
 
 
 ## Tecnologias Utilizadas
-React
-API para filmes em cartaz
-Material-UI
+-React
+-API para filmes em cartaz
+-Material-UI
 
 ## Funcionalidades
-Listagem dos filmes atualmente em cartaz
-Exibição de detalhes do filme, incluindo título, sinopse, e data de lançamento
-Design responsivo para melhor visualização em dispositivos móveis
+-Listagem dos filmes atualmente em cartaz
+-Exibição de detalhes do filme, incluindo título, sinopse, e data de lançamento
+-Design responsivo para melhor visualização em dispositivos móveis
