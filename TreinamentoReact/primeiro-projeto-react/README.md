@@ -14,13 +14,13 @@
 
 2. Instale as dependências:
 
-```npm install
-```
+npm install
+
 
 2. Inicie o servidor de desenvolvimento:
 
-```npm start
-```
+npm start
+
 
 ## Tecnologias Utilizadas
 React
